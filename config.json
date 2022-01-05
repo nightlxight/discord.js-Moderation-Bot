@@ -1,4 +1,5 @@
 {
+  "token": "Your bot's token goes here!"
   "prefix": "The prefix for your bot here!",
   "botowner": "Your Discord User ID here!"
 }
